@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CRUD - TP-BETP3-A</string>
+    <string name="project_info_title"><b><u>Informacion del proyecto.</u></b></string>
+    <string name="student_info_name">Nombre del alumno:</string>
+    <string name="student_info_surname">Apellido del alumno:</string>
+    <string name="student_data_name">Federico Ariel</string>
+    <string name="student_data_surname">Pugliese Rodriguez</string>
+    <string name="student_info_plan">Plan de estudios:</string>
+    <string name="student_data_plan">3 Años</string>
+    <string name="main_button_text">Comenzar</string>
+    <string name="create_car_text">Crear nuevo auto</string>
+    <string name="text_marca">Marca:</string>
+    <string name="text_modelo">Modelo:</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+</resources>
